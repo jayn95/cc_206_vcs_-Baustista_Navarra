@@ -1,4 +1,5 @@
 // {Jill Navarra}: {"Which would you choose: forget all those good memories or remember all those pain?" -JAYN}
+// {Pauline Joy Bautista}: {“Carpe diem. Seize the day, boys. Make your lives extraordinary}
 
 import 'package:flutter/material.dart';
 
