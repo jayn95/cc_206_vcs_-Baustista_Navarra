@@ -1,5 +1,7 @@
 // {Jill Navarra}: {"Which would you choose: forget all those good memories or remember all those pain?" -JAYN}
 // {Pauline Joy Bautista}: {Capre diem. Sieze the day, boys. Make your lives extraordinary. -Dead Poets Society}
+=======
+>>>>>>> main
 
 import 'package:flutter/material.dart';
 
